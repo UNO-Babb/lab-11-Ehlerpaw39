@@ -1,0 +1,3 @@
+# Grocery Store Simulation Summary
+
+In this simulation, I learned how different variables such as the number of checkers and arrival rate of customers affect the system. When there were fewer checkers, the average wait time for customers increased significantly, and idle time decreased because checkers were constantly busy. When there were more checkers, customers had shorter wait times, but the checkers spent more time idle. The simulation showed how important it is to balance staffing with customer flow in service-based industries. I also practiced using SimPy to model real-world scenarios and understood better how queues and random behavior affect system performance.
